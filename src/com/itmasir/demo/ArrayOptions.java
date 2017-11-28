@@ -20,14 +20,11 @@ public class ArrayOptions {
 
         BerylliumSphere[] d = {new BerylliumSphere(), new BerylliumSphere(), new BerylliumSphere()};
 
-//        System.out.println("a length " + a.length);
         System.out.println("b length " + b.length);
         System.out.println("c length " + c.length);
         System.out.println("d length " + d.length);
         a = d;
         System.out.println("a length " + a.length);
-
-
 
     }
 }
