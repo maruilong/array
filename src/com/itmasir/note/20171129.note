@@ -1,0 +1,15 @@
+创建测试数据
+    Arrays.fill() 把一个值填充进入一个数组
+
+Arrays的实用功能
+    equals 比较两个数组是否相同
+    deepEquals用于多维数组
+    fill 填充数组
+    sort 对数组进行排序
+    binarySearch用于在已经排序的数组中查找元素
+    toSring差生数组的String表示
+    hashCode产生数组的散列码
+
+不属于Arrays的好用方法
+    System.arrayCopy(); 不会自动拆装箱,需要保证两个数组类型相同
+s
