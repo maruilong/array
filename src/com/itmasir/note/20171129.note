@@ -12,4 +12,3 @@ Arrays的实用功能
 
 不属于Arrays的好用方法
     System.arrayCopy(); 不会自动拆装箱,需要保证两个数组类型相同
-s
